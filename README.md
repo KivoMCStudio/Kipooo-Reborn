@@ -1,10 +1,10 @@
 # Kipooo
 
-## 构建
+## 鏋勫缓
 
-* [Gradle](https://gradle.org/) - 下载Gradle
+* [Gradle](https://gradle.org/) - 涓嬭浇Gradle
 
-此项目已内置GradleWrapper.
+姝ら」鐩凡鍐呯疆GradleWrapper.
 
 **Windows:**
 
