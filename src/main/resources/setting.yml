@@ -1,0 +1,6 @@
+modules:
+  here:
+    desc: "&8* &f!here &7- &6显示您的当前坐标."
+    message: "&8* &f%player%所在的坐标为&7[&"
+    usage: "!here"
+    enabled: true
